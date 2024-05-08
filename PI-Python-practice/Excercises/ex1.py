@@ -18,3 +18,9 @@ print(string)
 list = [8,"some text", 0.3]
 
 print (f"this is the list:{list} and it contains {len(list)} items")
+
+# c) 
+
+tuple = ("one", "two")
+
+print (f"this tuple is made of {len(tuple)} elements and they are {tuple} strings")
