@@ -8,3 +8,4 @@ dictionary = {
     "city": "Wodzislaw-Slaski"
 }
 
+print(dictionary["age"])
