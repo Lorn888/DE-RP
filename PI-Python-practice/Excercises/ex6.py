@@ -19,3 +19,10 @@ def even_odd(num):
         return "Odd"
 
 print(even_odd(10))
+
+# c)
+
+def max_val(list):
+    return max(list)
+
+print(max_val([3,4,77,377,2,1]))
