@@ -9,3 +9,11 @@ def Calculator(num1,num2):
     return sum
 
 print(Calculator(9, 2))
+
+def even_odd(num):
+    if num % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+
+print(even_odd(10))
