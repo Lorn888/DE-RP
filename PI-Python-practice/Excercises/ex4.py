@@ -12,6 +12,13 @@ print(list)
 
 # b)
 
-tuple = (1,2,True,'ok')
-ok = tuple.append("extra")
-print(ok)
+# tuple = (1,2,True,'ok')
+# ok = tuple.append("extra")
+# print(ok)
+
+# c)
+
+names = ["John", "Bob", "Annie", "Simon", "Ell"]
+
+for name in names:
+    print(name)
