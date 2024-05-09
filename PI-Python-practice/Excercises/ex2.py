@@ -17,3 +17,11 @@ count = 2
 while count <= 6:
     print(count)
     count+=1
+
+# c)
+
+numbers = [1,3,56,54,2,6,669]
+
+for number in numbers:
+    if number > 10:
+        print (f"{number} is larger than 10")
