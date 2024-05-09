@@ -2,3 +2,10 @@
 # b. Create a tuple with two elements. Try to modify one of its elements and observe the error.
 # c. Iterate over a list of names and print each name.
 
+# a)
+
+list = ["lol", 3, True]
+extra = "new"
+
+list.append(extra)
+print(list)
