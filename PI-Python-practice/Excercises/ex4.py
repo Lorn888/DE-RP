@@ -9,3 +9,9 @@ extra = "new"
 
 list.append(extra)
 print(list)
+
+# b)
+
+tuple = (1,2,True,'ok')
+ok = tuple.append("extra")
+print(ok)
