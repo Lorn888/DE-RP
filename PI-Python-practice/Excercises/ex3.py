@@ -16,3 +16,11 @@ string2 = "world"
 greeting = string1 + string2
 
 print(greeting)
+
+# c)
+
+string = "example of a string"
+
+first_3 = string[:3]
+
+print(first_3)
