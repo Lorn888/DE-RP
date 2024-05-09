@@ -3,6 +3,17 @@
 # b. Write a while loop to print even numbers from 2 to 6.
 # c. Write an if statement to check if a number is greater than 10. Print a message accordingly.
 
+
+# a)
+
 list = [1,2,3,4,5]
 for item in list:
     print(item)
+
+# b)
+
+count = 2
+
+while count <= 6:
+    print(count)
+    count+=1
