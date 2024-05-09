@@ -10,6 +10,8 @@ def Calculator(num1,num2):
 
 print(Calculator(9, 2))
 
+# b)
+
 def even_odd(num):
     if num % 2 == 0:
         return "Even"
