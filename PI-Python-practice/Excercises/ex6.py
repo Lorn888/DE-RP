@@ -2,4 +2,10 @@
         # b. Write a function to check if a number is even. Print "Even" or "Odd" based on the result.
         # c. Write a function that takes a list as input and returns the maximum value in the list.
 
-        
+# a)
+
+def Calculator(num1,num2):
+    sum = num1 + num2
+    return sum
+
+print(Calculator(9, 2))
