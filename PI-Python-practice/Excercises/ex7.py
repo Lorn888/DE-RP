@@ -10,3 +10,14 @@ def fractal(n):
         return n * fractal(n-1)
 
 print(fractal(5))
+
+# b)
+
+def all_sum(n):
+    if n == 1:
+        return 1
+    else:
+        return n + all_sum(n-1)
+
+
+print(all_sum(10))
