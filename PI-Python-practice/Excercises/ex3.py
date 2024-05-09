@@ -7,3 +7,12 @@
 string = "So this is a string"
 
 print(len(string))
+
+# b)
+
+string1 = "hello "
+string2 = "world"
+
+greeting = string1 + string2
+
+print(greeting)
